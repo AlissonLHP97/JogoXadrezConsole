@@ -1,5 +1,5 @@
 ﻿using System;
-using Tabuleiro;
+using tabuleiro;
 
 namespace Xadrez_console
 {
@@ -7,6 +7,7 @@ namespace Xadrez_console
     {
         static void Main(string[] args)
         {
+            Tabuleiro tab = new Tabuleiro(8, 8);
             
         }
     }
