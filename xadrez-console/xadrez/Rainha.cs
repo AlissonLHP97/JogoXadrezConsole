@@ -3,15 +3,15 @@ using tabuleiro;
 
 namespace xadrez
 {
-    class Rainha : Peca
-    {
-        public Rainha(Tabuleiro tab, Cor cor) : base(tab, cor)
-        {
+    //class Rainha : Peca
+    //{
+    //    public Rainha(Tabuleiro tab, Cor cor) : base(tab, cor)
+    //    {
             
-        }
-        public override string ToString()
-        {
-            return "D";
-        }
-    }
+    //    }
+    //    public override string ToString()
+    //    {
+    //        return "D";
+    //    }
+    //}
 }

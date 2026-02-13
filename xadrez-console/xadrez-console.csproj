@@ -8,4 +8,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="xadrez\Bispo.cs" />
+    <None Include="xadrez\Cavalo.cs" />
+    <None Include="xadrez\Piao.cs" />
+    <None Include="xadrez\Rainha.cs" />
+  </ItemGroup>
+
 </Project>
