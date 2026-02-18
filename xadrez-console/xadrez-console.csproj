@@ -11,8 +11,8 @@
   <ItemGroup>
     <None Include="xadrez\Bispo.cs" />
     <None Include="xadrez\Cavalo.cs" />
-    <None Include="xadrez\Piao.cs" />
-    <None Include="xadrez\Rainha.cs" />
+    <None Include="xadrez\Peao.cs" />
+    <None Include="xadrez\Dama.cs" />
   </ItemGroup>
 
 </Project>
